@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
