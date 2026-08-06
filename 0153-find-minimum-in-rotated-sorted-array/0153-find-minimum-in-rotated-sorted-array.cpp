@@ -7,7 +7,7 @@ public:
         while (l <= h) {
             mid = l + (h - l) / 2;
             if (nums[mid] < nums[h]) {
-                h = mid;
+                h=mid;
             } else {
                 l = mid + 1;
             }
