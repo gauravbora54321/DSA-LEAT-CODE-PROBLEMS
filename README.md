@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -24,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
+| [0832-flipping-an-image](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0832-flipping-an-image) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -40,5 +43,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
