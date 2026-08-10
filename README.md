@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -57,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
