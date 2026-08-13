@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0832-flipping-an-image) |
 ## Greedy
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
