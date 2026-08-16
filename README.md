@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0832-flipping-an-image) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
