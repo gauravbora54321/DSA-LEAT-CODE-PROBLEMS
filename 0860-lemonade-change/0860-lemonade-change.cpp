@@ -14,15 +14,14 @@ public:
                     ten++;
                 }
             } else {
-                if (5 * five + 10 * ten < 15 || !five) {
-                    return false;
+                if (ten == 0 && five > 2) {
+                    five -= 3;
+                } else if (ten > 0 && five > 0) {
+                    ten--;
+                    five--;
+
                 } else {
-                    if (ten) {
-                        ten--;
-                        five--;
-                    } else {
-                        five -= 3;
-                    }
+                    return false;
                 }
             }
         }
