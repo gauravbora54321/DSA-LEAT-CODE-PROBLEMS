@@ -6,11 +6,11 @@ public:
         int row = n - 1; //4
         int col = 0;
         while (row >= 0 && col < m) { 
-            if (mat[row][col] == target) {
+            if (mat[row][col] == target) { // mat[1][1] =5==5
                 return true;
             } else if (mat[row][col] < target) { 
 
-                col++;
+                col++;//0+1=1
             } else {
                 row--;
             }
