@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0704-binary-search) |
@@ -31,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0832-flipping-an-image) |
 ## Two Pointers
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0190-reverse-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
 ## Quicksort
 |  |
 | ------- |
