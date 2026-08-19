@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0860-lemonade-change) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0704-binary-search) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Matrix
 |  |
 | ------- |
