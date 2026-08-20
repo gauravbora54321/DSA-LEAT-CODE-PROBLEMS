@@ -4,7 +4,7 @@ public:
         int low = * max_element(weights.begin(),weights.end());
         int high = accumulate(weights.begin(),weights.end(),0);
 
-        while(low<high){
+        while(low<=high){
             int mid = low +( high - low)/2;
            int cur_weight=0;
            int reqdays=1;
@@ -16,7 +16,7 @@ public:
             cur_weight+= weight;
            }
            if (reqdays<=days){
-             high = mid;
+             high = mid-1;
            }
             else{
                 low=mid+1;
