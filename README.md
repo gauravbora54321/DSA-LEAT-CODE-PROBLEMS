@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0011-container-with-most-water) |
+| [0151-reverse-words-in-a-string](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0832-flipping-an-image) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0022-generate-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
