@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0007-reverse-integer) |
 | [0342-power-of-four](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0860-lemonade-change) |
+| [1903-largest-odd-number-in-string](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
 ## Backtracking
 |  |
 | ------- |
