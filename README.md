@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0205-isomorphic-strings) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
