@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
