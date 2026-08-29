@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0283-move-zeroes) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0455-assign-cookies) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
 ## Quicksort
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0328-odd-even-linked-list) |
@@ -194,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
