@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/1539-kth-missing-positive-number) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Dynamic Programming
 |  |
 | ------- |
