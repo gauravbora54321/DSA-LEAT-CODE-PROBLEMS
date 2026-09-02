@@ -15,17 +15,17 @@ public:
         ListNode* temp = dummy;
         int carry = 0;
         while (l1 != nullptr || l2 != nullptr || carry) {
-            int sum = carry;
+            int sum = carry; //0
             if (l1 != nullptr) {
-                sum += l1->val; // 0+2  0+4  1+3
+                sum += l1->val; // 0+2
                 l1 = l1->next;
             }
             if (l2 != nullptr) {
-                sum += l2->val; // 5+2  4+6 4+4
+                sum += l2->val; // 2+5 =7
                 l2 = l2->next;
             }
-            carry = sum / 10;                    // carry = 10/10 =1
-            temp->next = new ListNode(sum % 10); // 7 , 0 ,8
+            carry = sum / 10;            
+            temp->next = new ListNode(sum % 10);  // 7->
             temp = temp->next;
         }
         return dummy->next;
