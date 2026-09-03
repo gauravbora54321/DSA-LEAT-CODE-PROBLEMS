@@ -1,14 +1,19 @@
 class Solution {
 public:
     bool uniformArray(vector<int>& nums1) {
-   
-        int Xmin =1e9;
-        int CNTOdd=0;
-        for(int x: nums1){
-            CNTOdd+=x&1;
-            Xmin=min(Xmin, x);
+
+        int minOdd = INT_MAX;
+        int minEven = INT_MAX;
+        for (int x : nums1) {
+            if (x % 2 == 0) {
+                minEven = min(minEven, x);
+            } else {
+                minOdd = min(minOdd, x);
+            }
         }
-        return Xmin&1 || CNTOdd==0;
-    
+        if (minOdd == INT_MAX) {
+            return true;
+        }
+        return minOdd < minEven;
     }
 };
