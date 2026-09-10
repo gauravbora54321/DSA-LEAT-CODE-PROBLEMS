@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0342-power-of-four) |
