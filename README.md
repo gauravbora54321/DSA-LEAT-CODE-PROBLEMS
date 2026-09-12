@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/1922-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/3875-construct-uniform-parity-array-i) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
