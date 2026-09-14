@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/1922-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -232,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0148-sort-list) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
