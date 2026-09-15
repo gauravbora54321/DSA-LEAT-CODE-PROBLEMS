@@ -1,0 +1,23 @@
+class Solution {
+public:
+    void solve(vector<int>& a, int target, int i, vector<int>& temp,
+               vector<vector<int>>& ans) {
+        if (target == 0) {
+            ans.push_back(temp);
+            return;
+        }
+        if (target < 0 || i == a.size()) {
+            return;
+        }
+        temp.push_back(a[i]);
+        solve(a, target - a[i], i, temp, ans);
+        temp.pop_back();
+        solve(a, target, i + 1, temp, ans);
+    }
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        vector<vector<int>> ans;
+        vector<int> temp;
+        solve(candidates, target, 0, temp, ans);
+        return ans;
+    }
+};
