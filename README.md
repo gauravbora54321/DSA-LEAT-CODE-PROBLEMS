@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0832-flipping-an-image) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
