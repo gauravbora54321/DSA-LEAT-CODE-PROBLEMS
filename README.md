@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gauravbora54321/DSA-LEAT-CODE-PROBLEMS/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
